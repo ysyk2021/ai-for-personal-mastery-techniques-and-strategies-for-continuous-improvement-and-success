@@ -1,5 +1,4 @@
-Automating Repetitive Tasks using AI
-===================================================================================================
+
 
 In this chapter, we will explore how AI technology can improve productivity and time management by automating repetitive tasks. We will discuss the benefits of using AI to automate these tasks, as well as strategies for maximizing the effectiveness of AI-powered automation tools.
 
